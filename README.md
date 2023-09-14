@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **Solidity, ReactJS, Hardhat, Ethers.js**
 
+- 📝 Read my articles on [https://cryptobriefing.com/team/alexander-gallagher/](https://cryptobriefing.com/team/alexander-gallagher/)
+
 <h3 align="left">
 <p align="left">
 <a href="https://twitter.com/@elchap0x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@elchap0x" height="30" width="40" /></a>
